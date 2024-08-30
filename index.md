@@ -1,3 +1,6 @@
-title: Microstate Segmentation Analysis using Cartool: A practical Guide
+---
+title: "Test blog"
+date: 30/08/2024
+---
 
-The aim of this tutorial is to demonstrate how to conduct microstate segmentation of EEG data, and analyse the output, using Cartool.
+
